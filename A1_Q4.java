@@ -20,7 +20,6 @@ public class A1_Q4 {
             if ( count == 0){
                 System.out.println(n);
             }
-
         }
       
     }
